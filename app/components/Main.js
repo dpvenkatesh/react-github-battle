@@ -1,10 +1,9 @@
-var React = require('react');
+import React from 'react';
 
 var Main = React.createClass({
     render: function () {
         return (
-            <div>
-                This is main
+            <div className="main-container">
                 {this.props.children}
             </div>
         )

@@ -1,5 +1,5 @@
-var React = require('react');
-var ReactDom = require('react-dom');
+import React from 'react';
+import ReactDom from 'react-dom';
 
 /*var USER_DATA = {
  name: "Venkatesh D P",
